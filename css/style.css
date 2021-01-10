@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+h2 {
+    line-height: 600px;
+    font-size: 45px;
+    margin: auto;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #fff;
+    letter-spacing: 3px;
+
+}
+.thing {
+    background: linear-gradient(rgba(26,188,156,0.7), rgba(231,76,60,0.7)),url(../images/img/bg-img/ocean-1920x1080-waves-palm-5k-19756.jpg);
+    background-size: cover;
+    text-align: center;
+    height: 100vh;
+}
